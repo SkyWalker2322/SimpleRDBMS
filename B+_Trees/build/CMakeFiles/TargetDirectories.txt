@@ -1,0 +1,3 @@
+/home/nithin/Desktop/phase-3-team-4/build/CMakeFiles/BPTree.dir
+/home/nithin/Desktop/phase-3-team-4/build/CMakeFiles/edit_cache.dir
+/home/nithin/Desktop/phase-3-team-4/build/CMakeFiles/rebuild_cache.dir
